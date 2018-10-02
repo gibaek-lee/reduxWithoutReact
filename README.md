@@ -19,4 +19,4 @@
 </p>
 
 ## Reference
-React tutorial - Velopert Blog [리덕스(Redux)를 왜 쓸까? 1편](https://velopert.com/3528)
+React tutorial - Velopert Blog [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악(i)](https://velopert.com/3528)
