@@ -2,6 +2,7 @@
 - Simple plus minus button action. Console log represent a action object.
 - Redux applied without React, means use Vanilla Javascript.
 - Redux is not only for React but Javascript, generally.
+- [run it](https://ginnyang2.github.io/reduxWithoutReact/)
 
 <p align="center">
   <img width="50%" src="./image/mainPage.png">
